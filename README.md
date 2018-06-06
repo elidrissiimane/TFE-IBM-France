@@ -1,5 +1,13 @@
-# TFE-IBM-France
+# TFE-IBM-France 
 <table border="0">
+  <tr>
+    <td>
+      <img src="4.PNG" style="width: 60px height: 50;">
+    </td>
+  </tr>
+</table>
+<table border="0">
+  
   <tr>
     <td>
       <img src="2.PNG" style="width: 60px height: 50;">
@@ -71,7 +79,7 @@ IBM se positionne comme leader en matière de technologies de l’information et
 <table border="0">
   <tr>
     <td>
-      <img src="3.PNG" style="width: 60px height: 50;">
+      <img src="4.PNG" style="width: 60px height: 50;">
     </td>
   </tr>
   <tr>
@@ -139,11 +147,17 @@ Savoir les exploiter et les valoriser donne en effet un avantage concurrentiel i
 En outre, durant les 5 mois de stage qui arrivent, nous serons menées à effectuer différentes tâches :
 
 	Participer à des Proof Of Concept autour des offres logiciels Big Data ou d’intégration / analyse de données
+
 	Participer à la restitution des résultats d’études et d’analyse des données
+
 	Participer aux phases de conceptions fonctionnelles et techniques dans le cadre d’un projet d’intégration
+
 	Participer aux réalisations de la solution mise en place
+
 	Participer aux phases de tests (intégration / recette)
+
 	Participer à la prise en charge et résolution des défauts
+
 	Participer à la mise en place d’évolutions potentielles
 
 ## Plan du travail prévisionnel
