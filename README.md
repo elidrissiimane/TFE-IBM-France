@@ -198,8 +198,11 @@ Notre sujet de stage n’est pas encore défini : les technologies de développe
 ## Webographie
 
 [1]	http://www.01net.com/telecharger/windows/Bureautique/organiseurs/fiches/29021.html
+
 [2]	https://www.ibm.com/fr-fr/
+
 [3]	https://www.decideo.fr/Le-data-engineering-complement-indispensable-de-la-data-science_a10085.html
+
 [4]	https://www.ibm.com/analytics/fr/fr/technology/ibm-bigdataparis.html
  
 
