@@ -17,10 +17,12 @@ Rapport Préliminaire au TFE Intervention fonctionnelle et technique dans le cad
 
 #### Tuteur pédagogique : 
 . Grégory VIAL
+
 . gregory.vial@ec-lyon.fr
 
 #### Tuteur entreprise :                                                                         
 . François BORRY
+
 . fborry@fr.ibm.com
 
 #### Année académique: 2017-2018
