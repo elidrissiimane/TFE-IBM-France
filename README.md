@@ -1,4 +1,15 @@
 # TFE-IBM-France
+<table border="0">
+  <tr>
+    <td>
+      <img src="1." style="width: 70px height: 60;">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+    </td>
+  </tr>
+</table>
 Rapport Préliminaire au TFE Intervention fonctionnelle et technique dans le cadre d’une mission de conseil et développement de solutions Big Data et/ou intégration de données
 ## Table des matières:
 
