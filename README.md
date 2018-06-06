@@ -165,7 +165,18 @@ En outre, durant les 5 mois de stage qui arrivent, nous serons menées à effect
 Ci-dessous un schéma de Gantt qui résume le plan prévisionnel pour les 5 prochains mois à venir concernant ma mission est achevée au 30 mai 2018. 
 Les tâches prévues pour les 5 mois prochains peuvent évoluer en fonction des demandes des clients. Afin que vous soyez au courant de ces modifications, je vous invite à consulter ma page wiki qui se trouve à l’adresse suivante: 
 
- 
+ <table border="0">
+  <tr>
+    <td>
+      <img src="5.PNG" style="width: 100px;">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h6> Figure 3 - Diagramme de Gantt </h6>
+    </td>
+  </tr>
+</table>
 
 
 
