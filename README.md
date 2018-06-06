@@ -2,7 +2,7 @@
 <table border="0">
   <tr>
     <td>
-      <img src="3.PNG" style="width: 60px height: 50;">
+      <img src="3.PNG" style="width: 60px height: 50;" align="center">
     </td>
   </tr>
 </table>
@@ -143,19 +143,15 @@ Cependant, l’enjeu est d’adapter les meilleures technologies et de développ
 Les compétences à envisager durant ce stage sont en grande partie la combinaison des principales compétences des data scientists et les data engineers, aujourd’hui es données sont parmi les actifs les plus précieux des entreprises, notamment pour relever les défis de la fameuse "transformation numérique". Une étude montre en effet que la quasi-totalité des entreprises qui ont engagé un ou plusieurs grands projets de transformation numérique placent la donnée au cœur de leur projet. La prise de conscience est réelle et est de surcroît favorisée par la montée des clouds publics. Les plus grandes entreprises mettent en place des stratégies Datas et recrutent des experts, les Data Scientists, disposant de compétences algorithmiques et statistiques pointue et capables de faire parler les données. 
 
 Savoir les exploiter et les valoriser donne en effet un avantage concurrentiel indéniable pour se démarquer sur son marché. Mais encore faut-il s'assurer que les données exploitées sont fiables, robustes, sécurisées, mais aussi que ce sont les bonnes données qui ont été remontées et qu'elles sont complètes et à jour, ceci dans un contexte où les volumes explosent et les formats sont très hétérogènes.
-Ce premier mois était consacré aussi pour améliorer et développer les compétences en : Python, Scala et Spark à travers la manipulation suivante qui consiste à :
+Ce premier mois était consacré aussi pour améliorer et développer les compétences en : Python, Scala, Spark Hadoop et Hive à travers la manipulation suivante qui consiste à :
 
--	Ingérer des fichiers de données depuis le edge node vers la raw layer :
-•	Créer un ou des modèles de développement Python ou Scala consistant à copier le contenu de fichiers textes depuis une ressource (répertoire) du edge node vers HDFS (zone raw layer), sans transformation fonctionnelle des données mais avec des transformations techniques possibles
+-	Ingérer des fichiers de données depuis le edge node vers la raw layer : Créer un ou des modèles de développement Python ou Scala consistant à copier le contenu de fichiers textes depuis une ressource (répertoire) du edge node vers HDFS (zone raw layer), sans transformation fonctionnelle des données mais avec des transformations techniques possibles
 
 -	Alimenter les tables de la conformed layer à partir des fichiers ingérés dans la raw layer
 
--	Prendre en compte de certaines exigences du GDPR :
-•	Anonymiser / Pseudonymiser
-•	Protéger l’accès à certaines tables et/ou colonnes de tables
+-	Prendre en compte de certaines exigences du GDPR : Anonymiser / Pseudonymiser et Protéger l’accès à certaines tables et/ou colonnes de tables
 
 -	Automatiser les traitements
-
 
 
 En outre, durant les 5 mois de stage qui arrivent, nous serons menées à effectuer différentes tâches :
@@ -176,7 +172,7 @@ En outre, durant les 5 mois de stage qui arrivent, nous serons menées à effect
 
 ## Plan du travail prévisionnel
 
-Ci-dessous un schéma de Gantt qui résume le plan prévisionnel pour les 5 prochains mois à venir concernant ma mission est achevée au 30 mai 2018. 
+Ci-dessous un schéma de Gantt qui résume le plan prévisionnel pour les 5 prochains mois à venir concernant ma mission est achevée au 20 juin 2018. 
 Les tâches prévues pour les 5 mois prochains peuvent évoluer en fonction des demandes des clients.
 
  <table border="0">
@@ -194,7 +190,22 @@ Les tâches prévues pour les 5 mois prochains peuvent évoluer en fonction des 
 
 ## Conclusion
 
+La formation proposée par IBM représente le profil data ingénieur qui est très demandé, ce qui aboutir à la rechercher des personnes qui ont ce profil afin de contribuer à la construction des projets des clients d’IBM. Et dans ce cadre-là se situe notre stage de TFE.
+
+Notre sujet de stage n’est pas encore défini : les technologies de développement sont listées et déterminées. L’accueil IBM France a été effectué et le stage a été bien démarré dès les premiers jours avec une journée d’intégration bien organisée, avec des réunions avec notre maître de stage qui nous a mis dans le cadre de travail. Le stage chez IBM Analytics est très intéressant, passionnant et enrichissant avec une très bonne ambiance de travail.
+
+
 ## Webographie
+
+[1]	http://www.01net.com/telecharger/windows/Bureautique/organiseurs/fiches/29021.html
+[2]	https://www.ibm.com/fr-fr/
+[3]	https://www.decideo.fr/Le-data-engineering-complement-indispensable-de-la-data-science_a10085.html
+[4]	https://www.ibm.com/analytics/fr/fr/technology/ibm-bigdataparis.html
+ 
+
+## Auteur:
+#### EL IDRISSI Imane
+
 
 
 
